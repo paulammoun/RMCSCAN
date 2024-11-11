@@ -1,0 +1,81 @@
+{
+	"inherit": "Alpha",
+	"variables": [
+	{
+		"Name": "fontFamily",
+		"Value": "-apple-system, HelveticaNeue, Helvetica-Neue, Roboto, Segoe UI, sans-serif "
+	},
+	{
+		"Name": "foreColor",
+		"Value": "#212121"
+	},
+	{
+		"Name": "backColor",
+		"Value": "#fff"
+	},
+	{
+		"Name": "iconColor",
+		"Value": "#212529"
+	},
+	{
+		"Name": "headerForeColor",
+		"Value": "#fff"
+	},
+	{
+		"Name": "headerBackColor",
+		"Value": "#ffaa1a"
+	},
+	{
+		"Name": "panelLineColor",
+		"Value": "rgba(128,128,128,.2)"
+	},
+	{
+		"Name": "accentColor",
+		"Value": "#FFC107"
+	},
+	{
+		"Name": "accentForeColor",
+		"Value": "#000"
+	},
+	{
+		"Name": "altAccentColor",
+		"Value": "#f9240a"
+	},
+	{
+		"Name": "altAccentForeColor",
+		"Value": "#fff"
+	},
+	{
+		"Name": "errorColor",
+		"Value": "#ed2323"
+	},
+	{
+		"Name": "confirmColor",
+		"Value": "#1eea40"
+	},
+	{
+		"Name": "confirmForeColor",
+		"Value": "#fff"
+	},
+	{
+		"Name": "denyColor",
+		"Value": "#ed1212"
+	},
+	{
+		"Name": "denyForeColor",
+		"Value": "#fff"
+	},
+	{
+		"Name": "lockColor",
+		"Value": "rgba(0,0,0,.1)"
+	},
+	{
+		"Name": "btnShadow",
+		"Value": "7px 7px 13px -6px rgba(0, 0, 0, 0.2)"
+	}],
+	"xsass": "$btnShadow:  7px 7px 13px -6px rgba(0, 0, 0, 0.2);  // *AA:Button|Shadow|box-shadow|Style of button shadow\n.button, .buttonDD, .buttonSplit { box-shadow: $btnShadow; }",
+	"sass": "",
+	"js": "",
+	"subthemes": {
+	}
+}
