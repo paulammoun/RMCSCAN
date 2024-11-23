@@ -1,7 +1,7 @@
 // **Template code last revised: 08/30/21
 
-const staticCacheName = 'scans_pwa_cache-v-01.04';
-const dynamicCacheName = 'scans_pwa_dynamic_cache-v-01.04';
+const staticCacheName = 'scans_pwa_cache-v-01.05';
+const dynamicCacheName = 'scans_pwa_dynamic_cache-v-01.05';
 const dynamicCacheSize = 10;
 const offlineFilename = '/RMCSCAN/offline.html';
 const showDebugInfo = true;
